@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navnath Kamble</h1>
-<h3 align="center">A passionate Automation Test Engineer from India</h3>
+<h3 align="center">A passionate Developer & Automation Test Engineer from India</h3>
 
  
 # 💻 Tech Stack:
