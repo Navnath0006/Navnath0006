@@ -1,267 +1,527 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================================================= -->
+
+<!--                     ANIMATED HEADER                       -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7B2FF7&height=220&section=header&text=Navnath%20Kamble&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=NAVNATH%20KAMBLE&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=gradient" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Navnath0006">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Computer+Engineer+%7C+Developer;Python+%7C+R+%7C+GIS+%7C+MySQL;Epidemiology+%7C+Data+Science+%7C+Spatial+Analysis;Web+Applications+%7C+APIs+%7C+Automation;Linux+%7C+HPC+%7C+DevOps;Turning+Data+into+Knowledge+%F0%9F%A7%A0" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Engineer+%7C+Developer;Data+%26+GIS+Enthusiast;Python+%7C+R+%7C+MySQL+%7C+Linux;Epidemiology+%7C+Spatial+Analysis;Web+Applications+%7C+Automation+%7C+HPC;Building+Technology+for+Real-World+Problems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Navnath0006&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Navnath0006?label=FOLLOWERS&style=for-the-badge&color=0072FF" />
-  <img src="https://img.shields.io/github/stars/Navnath0006?label=STARS&style=for-the-badge&color=7B2FF7" />
+  <img src="https://img.shields.io/badge/FOCUS-Software%20%7C%20Data%20%7C%20GIS-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/DOMAIN-Epidemiology-7B61FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/ENVIRONMENT-Linux%20%7C%20HPC-00E676?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
----
+<br>
 
-# 👨‍💻 `whoami`
+<!-- ========================================================= -->
 
-```python
-class NavnathKamble:
+<!--                     TERMINAL INTRO                        -->
 
-    role = "Computer Engineer & Developer"
+<!-- ========================================================= -->
 
-    interests = [
-        "Software Development",
-        "Data Science",
-        "GIS & Spatial Statistics",
-        "Veterinary Epidemiology",
-        "Disease Forecasting",
-        "Automation",
-        "Linux & HPC",
-        "DevOps"
-    ]
-
-    currently_building = [
-        "Web Applications",
-        "Data Platforms",
-        "Epidemiological Systems",
-        "GIS Applications",
-        "APIs & Automation",
-        "Scientific Computing"
-    ]
-
-    philosophy = "Build → Automate → Analyze → Improve"
+```text
+╭──────────────────────────────────────────────────────────────────╮
+│                                                                  │
+│   $ whoami                                                       │
+│                                                                  │
+│   navnath@engineering:~$                                        │
+│                                                                  │
+│   Computer Engineer & Developer                                  │
+│                                                                  │
+│   Building systems where                                         │
+│                                                                  │
+│       DATA  →  CODE  →  ANALYSIS  →  VISUALIZATION               │
+│                              ↓                                   │
+│                         DECISION SUPPORT                         │
+│                                                                  │
+│   [ Python ] [ R ] [ GIS ] [ MySQL ] [ PHP ] [ Linux ]          │
+│   [ APIs ] [ Automation ] [ HPC ] [ React Native ]              │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# ⚡ `Tech Stack`
+# `01 / ABOUT`
 
-### 🧠 Programming
+I'm a **Computer Engineer & Developer** working at the intersection of:
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,php,js,java,c&theme=dark" />
-</p>
+```text
+Software Engineering
+        +
+Data Engineering
+        +
+GIS / Spatial Statistics
+        +
+Veterinary Epidemiology
+        +
+Scientific Computing
+        +
+Infrastructure
+```
 
-### 🌐 Web & APIs
+I build **data-driven applications, analytical systems, GIS workflows, databases, APIs and scientific computing environments**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express&theme=dark" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-### 📊 Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
-</p>
-
-<p>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-6C3483?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/Time_Series-512DA8?style=for-the-badge)
-
-</p>
-
-### 🗺️ GIS / Remote Sensing
-
-<p>
-
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge\&logo=qgis\&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge\&logo=googleearth\&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge)
-![Spatial Statistics](https://img.shields.io/badge/Spatial_Statistics-8E44AD?style=for-the-badge)
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-2E7D32?style=for-the-badge)
-
-</p>
-
-### 🖥️ Linux / DevOps / Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,apache,docker,kubernetes,jenkins,git,github&theme=dark" />
-</p>
-
-`SSH` `SSL/TLS` `Apache` `Firewall` `Reverse Proxy` `CI/CD` `HPC` `Open OnDemand`
-
-### 📱 Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=android,react&theme=dark" />
-</p>
-
-`React Native` `Android` `REST APIs` `Node.js` `Express`
-
-### 🧪 Testing & Tools
-
-<p>
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-
-</p>
+My main interest is not just writing code — it's building systems that take messy real-world data and turn it into something useful.
 
 ---
 
-# 🔬 `What I Work On`
+# `02 / THE ENGINEERING STACK`
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 🐄 Animal Health Informatics
+<img src="https://skillicons.dev/icons?i=python,r,php,js,java,c,mysql,mongodb,html,css,bootstrap,tailwind,linux,ubuntu,apache,docker,kubernetes,jenkins,git,github&perline=10&theme=dark" />
 
-* Disease surveillance
+</p>
+
+### Core
+
+```text
+Python          ████████████████████
+R               ██████████████████
+PHP             █████████████████
+JavaScript      ████████████████
+SQL             ███████████████████
+Linux           ███████████████████
+```
+
+### Data
+
+```text
+Pandas          NumPy
+Statistics      Time Series
+Data Cleaning   Data Processing
+Machine Learning
+Scientific Computing
+```
+
+### Geospatial
+
+```text
+QGIS
+Google Earth Engine
+GDAL
+Raster Processing
+Vector Processing
+Spatial Statistics
+Remote Sensing
+Spatial Epidemiology
+Spatio-Temporal Analysis
+```
+
+### Infrastructure
+
+```text
+Linux
+Apache
+SSH
+SSL/TLS
+Firewall
+Docker
+Kubernetes
+Jenkins
+HPC
+Open OnDemand
+Server Automation
+```
+
+---
+
+# `03 / WHAT MAKES MY WORK DIFFERENT`
+
+Most applications look like:
+
+```text
+USER → APPLICATION → DATABASE
+```
+
+My work often looks more like:
+
+```text
+                       ┌───────────────┐
+                       │ FIELD / WEB   │
+                       │ DATA SOURCES  │
+                       └───────┬───────┘
+                               │
+                               ▼
+                    ┌────────────────────┐
+                    │   DATA PIPELINE    │
+                    │ Python / R / SQL   │
+                    └─────────┬──────────┘
+                              │
+                ┌─────────────┼─────────────┐
+                ▼             ▼             ▼
+           DATABASE        STATISTICS       GIS
+             │                │             │
+             └────────────────┼─────────────┘
+                              ▼
+                    ┌──────────────────┐
+                    │ ANALYTICAL MODEL │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │ MAPS / DASHBOARDS   │
+                  │ FORECAST / REPORTS  │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                       DECISION SUPPORT
+```
+
+This is where **software engineering + data + science + GIS** come together.
+
+---
+
+# `04 / DOMAIN`
+
+<details>
+<summary>🐄 <b>Veterinary Epidemiology</b></summary>
+
+<br>
+
+Working with systems and analytical workflows related to:
+
+* Animal disease surveillance
 * Epidemiological databases
+* Disease occurrence data
 * Disease forecasting
-* Risk mapping
-* One Health data systems
-* Scientific dashboards
+* Disease risk mapping
+* One Health data
+* Spatial epidemiology
+* Environmental risk factors
+* Disease visualization
 
-</td>
+</details>
 
-<td width="50%">
+<details>
+<summary>🗺️ <b>GIS & Spatial Intelligence</b></summary>
 
-### 🗺️ Spatial Analytics
+<br>
 
-* GIS
+Working with:
+
+* State / district / block / village level datasets
+* Raster and vector data
+* Spatial joins
 * Spatial statistics
+* Risk mapping
 * Remote sensing
-* Raster processing
-* Geospatial modelling
+* Environmental datasets
 * Spatio-temporal analysis
+* Geographic visualization
 
-</td>
-</tr>
+</details>
 
-<tr>
-<td width="50%">
+<details>
+<summary>🧠 <b>Data Science & Machine Learning</b></summary>
 
-### 💻 Software Engineering
+<br>
 
-* Web applications
-* REST APIs
-* Database systems
-* Data pipelines
-* Automation
-* Mobile applications
+Exploring:
 
-</td>
+* Statistical modelling
+* Time-series analysis
+* Machine learning
+* Geospatial machine learning
+* Spatio-temporal modelling
+* Disease prediction
+* Risk modelling
+* AI-assisted epidemiological analysis
 
-<td width="50%">
+</details>
 
-### 🖥️ Infrastructure
+<details>
+<summary>🖥️ <b>Infrastructure & HPC</b></summary>
+
+<br>
+
+Working with:
 
 * Linux servers
 * Apache
 * SSL/TLS
+* SSH
+* Firewall configuration
 * Docker
-* HPC
+* HPC environments
 * Open OnDemand
+* Large storage systems
+* Application deployment
 * Server automation
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-# 🚀 `Current Focus`
+# `05 / PROJECT UNIVERSE`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=700&color=7B2FF7&center=true&vCenter=true&width=850&lines=Learning+Machine+Learning+for+Epidemiology;Exploring+Geospatial+Machine+Learning;Building+Spatio-Temporal+Models;Working+with+Large+Scientific+Datasets;Exploring+AI+%2B+Epidemiology;Learning+HPC+%26+GPU+Computing" />
-</p>
+### 🧬 NADRES
 
----
-
-# 🧬 `My Technical Pipeline`
+**Animal Disease Reporting & Epidemiological Data Systems**
 
 ```text
-             ┌──────────────────┐
-             │   DATA SOURCES   │
-             └────────┬─────────┘
-                      ↓
-        ┌─────────────────────────┐
-        │ Data Engineering        │
-        │ Python • R • SQL        │
-        └────────────┬────────────┘
-                     ↓
-        ┌─────────────────────────┐
-        │ Statistical Analysis    │
-        │ Epidemiology • ML       │
-        └────────────┬────────────┘
-                     ↓
-        ┌─────────────────────────┐
-        │ GIS & Spatial Analysis  │
-        │ QGIS • GEE • GDAL       │
-        └────────────┬────────────┘
-                     ↓
-        ┌─────────────────────────┐
-        │ Risk & Forecast Models  │
-        └────────────┬────────────┘
-                     ↓
-        ┌─────────────────────────┐
-        │ Web • Maps • Dashboards │
-        └────────────┬────────────┘
-                     ↓
-              🚀 DECISION SUPPORT
+Web Application
+      │
+      ├── Data Collection
+      ├── MySQL
+      ├── Epidemiological Processing
+      ├── GIS
+      ├── Risk Mapping
+      └── Visualization
 ```
 
+**Stack**
 
+`PHP` `MySQL` `JavaScript` `R` `GIS` `Apache` `Linux`
 
-# 💡 `Developer Philosophy`
+---
+
+### 📊 PDDES
+
+**Epidemiological Data Collection & Decision Support**
+
+```text
+Mobile
+   │
+   ▼
+API
+   │
+   ▼
+Database
+   │
+   ▼
+Analytics
+   │
+   ├── Forecasting
+   ├── Mapping
+   └── Visualization
+```
+
+**Stack**
+
+`PHP` `MySQL` `JavaScript` `React Native` `Android` `REST API`
+
+---
+
+### 🌍 GIS / Risk Mapping
+
+```text
+Disease Data
+     +
+Climate Data
+     +
+Geographic Data
+     +
+Environmental Data
+          ↓
+   Spatial Analysis
+          ↓
+    Risk Surface
+          ↓
+    Disease Map
+```
+
+**Stack**
+
+`R` `Python` `QGIS` `GEE` `GDAL`
+
+---
+
+# `06 / DEVELOPMENT MINDSET`
+
+```text
+                    ┌───────────────┐
+                    │ REAL PROBLEM  │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │ UNDERSTAND    │
+                    │ THE DATA      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │ DESIGN        │
+                    │ THE SYSTEM    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │ BUILD         │
+                    │ THE PIPELINE  │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │ ANALYZE       │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │ VISUALIZE     │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │ AUTOMATE      │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │ DEPLOY        │
+                    └───────────────┘
+```
+
+---
+
+# `07 / CURRENTLY EXPLORING`
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=Don't+just+write+code.;Build+systems+that+solve+real+problems.;Automate+what+can+be+automated.;Turn+data+into+knowledge.;Turn+knowledge+into+decisions." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=7B61FF&center=true&vCenter=true&width=850&lines=Machine+Learning+%2B+Epidemiology;Geospatial+Machine+Learning;Spatio-Temporal+Modelling;Deep+Learning;AI+for+Scientific+Research;HPC+%26+GPU+Computing;Large-Scale+Data+Processing" />
 
 </p>
 
 ---
 
-# 🌐 `Connect`
+# `08 / TOOLBOX`
+
+| Layer         | Technologies                                  |
+| ------------- | --------------------------------------------- |
+| **Languages** | Python · R · PHP · JavaScript · Java · C      |
+| **Web**       | HTML · CSS · Bootstrap · Tailwind · REST APIs |
+| **Backend**   | PHP · Node.js · Express                       |
+| **Database**  | MySQL · MongoDB                               |
+| **Data**      | Pandas · NumPy · Statistics · ML              |
+| **GIS**       | QGIS · GEE · GDAL                             |
+| **Mobile**    | Android · React Native                        |
+| **Testing**   | Selenium · Postman                            |
+| **Server**    | Linux · Ubuntu · Apache                       |
+| **DevOps**    | Git · Docker · Kubernetes · Jenkins           |
+| **HPC**       | Open OnDemand · Linux HPC                     |
+| **Cloud**     | AWS · Google Cloud · Firebase                 |
+
+---
+
+# `09 / INTERACTIVE TERMINAL`
+
+<details>
+<summary>▶ <b>Click to enter my terminal</b></summary>
+
+```bash
+$ navnath --about
+
+Computer Engineer
+Developer
+Data & GIS Enthusiast
+
+$ navnath --languages
+
+Python
+R
+PHP
+JavaScript
+Java
+C
+SQL
+
+$ navnath --specialization
+
+Data Engineering
+GIS
+Spatial Statistics
+Epidemiology
+Web Development
+Automation
+Linux
+HPC
+
+$ navnath --mission
+
+Build useful systems.
+Automate repetitive work.
+Understand complex data.
+Turn analysis into decisions.
+
+$ navnath --status
+
+████████████████████████████████  ONLINE
+```
+
+</details>
+
+---
+
+# `10 / THE ROAD AHEAD`
+
+```text
+                         TODAY
+                           │
+                           ▼
+                 Software Engineering
+                           │
+                           ▼
+                    Data Engineering
+                           │
+                           ▼
+                  Spatial Intelligence
+                           │
+                           ▼
+                  Machine Learning
+                           │
+                           ▼
+             Geospatial Machine Learning
+                           │
+                           ▼
+               Spatio-Temporal AI
+                           │
+                           ▼
+                  Scientific AI / HPC
+                           │
+                           ▼
+                    🚀 FUTURE
+```
+
+---
+
+# `11 / CONTRIBUTION DNA`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Navnath0006/Navnath0006/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+# `12 / PHILOSOPHY`
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Don't+just+write+code.;Understand+the+problem.;Design+the+system.;Automate+the+boring+parts.;Make+data+useful.;Build+something+that+matters." />
+
+</p>
+
+---
+
+# `13 / CONNECT`
 
 <p align="center">
 
 <a href="https://github.com/Navnath0006">
-<img src="https://img.shields.io/badge/GitHub-Navnath0006-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Navnath0006-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
----
+<br>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:0072FF,100:00C6FF&height=120&section=footer&animation=twinkling"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-
-### ⚡ `Python` • `R` • `GIS` • `Epidemiology` • `MySQL` • `Linux` • `HPC` • `AI`
-
+  <sub>Engineering • Data • GIS • Epidemiology • Automation • HPC</sub>
 </p>
