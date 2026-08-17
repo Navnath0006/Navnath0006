@@ -4,13 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Engineer+%7C+Software+Developer;Python+%7C+R+%7C+MySQL+%7C+GIS;Web+Applications+%7C+Automation+%7C+HPC;Epidemiology+%7C+Spatial+Analysis+%7C+Data+Science" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Engineer+%7C+Software+Developer;Data+%7C+GIS+%7C+Epidemiology;Animal+Disease+Analysis+%7C+Forecasting;Web+Applications+%7C+Automation+%7C+HPC;Turning+Disease+Data+into+Actionable+Insights" />
 
 <br>
 
 <a href="https://github.com/Navnath0006">
 <img src="https://img.shields.io/badge/GitHub-Navnath0006-0F172A?style=flat-square&logo=github"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=Navnath0006&label=Profile%20Views&color=0891B2&style=flat-square"/>
 
 </div>
@@ -21,11 +22,159 @@
 
 I'm a **Computer Engineer and Software Developer** working across software development, data engineering, GIS, epidemiology, and Linux/HPC infrastructure.
 
-I build **web applications, databases, APIs, analytical workflows, GIS systems, and scientific computing environments** that turn complex data into practical insights.
+I build **web applications, databases, APIs, analytical workflows, GIS systems, and scientific computing environments** that transform complex data into practical insights.
 
 ---
 
-## Tech Stack
+## 🐄 Data → Analysis → Forecasting
+
+<div align="center">
+
+```text
+          🐄 ANIMAL / FIELD DATA
+                    │
+                    ▼
+        ┌─────────────────────────┐
+        │     DATA COLLECTION     │
+        │   Web • Mobile • APIs   │
+        └────────────┬────────────┘
+                     │
+                     ▼
+        ┌─────────────────────────┐
+        │    DATA ENGINEERING     │
+        │ Python • R • SQL        │
+        │ Cleaning • Validation   │
+        └────────────┬────────────┘
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       🗄️ SQL       🗺️ GIS      🌦️ Climate
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+        ┌─────────────────────────┐
+        │   EPIDEMIOLOGICAL       │
+        │       ANALYSIS          │
+        └────────────┬────────────┘
+                     │
+                     ▼
+        ┌─────────────────────────┐
+        │       FORECASTING       │
+        │  Trends • Risk • Time   │
+        │       Series • ML       │
+        └────────────┬────────────┘
+                     │
+                     ▼
+        ┌─────────────────────────┐
+        │      GIS RISK MAP       │
+        │  Spatial • Temporal     │
+        └────────────┬────────────┘
+                     │
+                     ▼
+              🎯 DECISION SUPPORT
+```
+
+</div>
+
+---
+
+## 🔬 What I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,php,js,mysql,mongodb,linux,ubuntu,docker,git,github&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GIS-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spatial_Statistics-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Epidemiology-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Disease_Forecasting-DC2626?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 📊 Disease Intelligence
+
+<table>
+<tr>
+<td align="center">
+
+### 🐄
+
+**Disease Data**
+
+Surveillance<br>
+Occurrence<br>
+Animal Health
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 📈
+
+**Analytics**
+
+Statistics<br>
+Time Series<br>
+Machine Learning
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 🗺️
+
+**Spatial Intelligence**
+
+GIS<br>
+Risk Mapping<br>
+Remote Sensing
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 🔮
+
+**Forecasting**
+
+Trend<br>
+Risk<br>
+Prediction
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 🎯
+
+**Decision Support**
+
+Maps<br>
+Dashboards<br>
+Reports
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌍 Scientific Technology Stack
 
 **Languages**
 
@@ -35,68 +184,58 @@ I build **web applications, databases, APIs, analytical workflows, GIS systems, 
 
 `HTML` `CSS` `Bootstrap` `Tailwind` `REST APIs` `React Native` `Android`
 
-**Data & Databases**
+**Data**
 
 `Pandas` `NumPy` `MySQL` `MongoDB` `Statistics` `Time Series`
 
-**GIS & Scientific Computing**
+**GIS & Remote Sensing**
 
-`QGIS` `Google Earth Engine` `GDAL` `Spatial Statistics` `Remote Sensing`
+`QGIS` `Google Earth Engine` `GDAL` `Spatial Statistics`
 
 **Infrastructure**
 
 `Linux` `Ubuntu` `Apache` `SSH` `SSL/TLS` `Docker` `Kubernetes` `Jenkins` `HPC` `Open OnDemand`
 
-**Tools**
+---
 
-`Git` `GitHub` `Selenium` `Postman`
+## 🚀 Selected Work
+
+| Project                      | What it does                                              |
+| ---------------------------- | --------------------------------------------------------- |
+| 🧬 **NADRES**                | Animal disease reporting and epidemiological data systems |
+| 📊 **PDDES**                 | Web/mobile data collection and decision-support workflows |
+| 🗺️ **Disease Risk Mapping** | GIS-based disease and environmental risk analysis         |
+| 🔮 **Disease Forecasting**   | Time-series and predictive epidemiological workflows      |
+| 🖥️ **HPC / Open OnDemand**  | Scientific computing and research infrastructure          |
 
 ---
 
-## What I Build
+## 🔮 Currently Exploring
 
-| Area                   | Focus                                             |
-| ---------------------- | ------------------------------------------------- |
-| 🧬 **Epidemiology**    | Disease surveillance, forecasting, risk analysis  |
-| 🗺️ **GIS**            | Spatial analysis, disease mapping, remote sensing |
-| 💻 **Software**        | Web applications, APIs, data platforms            |
-| 🗄️ **Data**           | Database systems, analytics, automation           |
-| 🖥️ **Infrastructure** | Linux, Apache, HPC, deployment                    |
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=7C3AED&center=true&vCenter=true&width=850&lines=Machine+Learning+for+Animal+Disease;Geospatial+Machine+Learning;Spatio-Temporal+Disease+Models;Climate+%2B+Disease+Analysis;AI+for+Epidemiology;HPC+%2B+GPU+Computing" />
 
-## Selected Work
-
-**NADRES**
-Animal disease reporting, epidemiological data management and analytical systems.
-
-**PDDES**
-Web/mobile data collection and decision-support platform.
-
-**GIS & Risk Mapping**
-Spatial workflows combining epidemiological, environmental and geographic datasets.
-
-**HPC / Open OnDemand**
-Linux-based scientific computing and research infrastructure.
-
----
-
-## Currently Exploring
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=800&lines=Machine+Learning+for+Epidemiology;Geospatial+Machine+Learning;Spatio-Temporal+Modelling;AI+for+Animal+Health;Large-Scale+Scientific+Computing;HPC+%2B+GPU+Computing" />
+</div>
 
 ---
 
 <div align="center">
 
-> **Build useful systems. Automate repetitive work. Turn data into decisions.**
+### `DATA → SCIENCE → INTELLIGENCE → ACTION`
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=750&lines=Analyze+the+data.;Understand+the+disease.;Map+the+risk.;Forecast+the+future.;Support+better+decisions." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+DATA+%E2%80%A2+GIS+%E2%80%A2+SCIENCE+%E2%80%A2+SYSTEMS" />
+<br><br>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:1E3A8A,100:0F172A&height=100&section=footer&animation=fadeIn" width="100%"/>
+<a href="https://github.com/Navnath0006">
+<img src="https://img.shields.io/badge/GitHub-Navnath0006-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:1E3A8A,100:0F172A&height=110&section=footer&animation=fadeIn" width="100%"/>
+
+</p>
