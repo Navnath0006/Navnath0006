@@ -1,239 +1,301 @@
-<h1 align="center">Hi 👋, I'm Navnath Kamble</h1>
+<!-- ======================= HEADER ======================= -->
 
-<h3 align="center">
-Computer Engineer • Developer • Data & GIS Enthusiast
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7B2FF7&height=220&section=header&text=Navnath%20Kamble&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Navnath0006">
-    <img src="https://komarev.com/ghpvc/?username=Navnath0006&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Computer+Engineer+%7C+Developer;Python+%7C+R+%7C+GIS+%7C+MySQL;Epidemiology+%7C+Data+Science+%7C+Spatial+Analysis;Web+Applications+%7C+APIs+%7C+Automation;Linux+%7C+HPC+%7C+DevOps;Turning+Data+into+Knowledge+%F0%9F%A7%A0" />
   </a>
-  <a href="https://github.com/Navnath0006?tab=followers">
-    <img src="https://img.shields.io/github/followers/Navnath0006?label=Followers&style=flat" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Navnath0006&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Navnath0006?label=FOLLOWERS&style=for-the-badge&color=0072FF" />
+  <img src="https://img.shields.io/github/stars/Navnath0006?label=STARS&style=for-the-badge&color=7B2FF7" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 `whoami`
 
-I'm a **Computer Engineer and Developer** working on real-world applications involving:
+```python
+class NavnathKamble:
 
-* 🐍 **Python & R**
-* 🗄️ **MySQL & Database Engineering**
-* 🌐 **PHP, JavaScript & Web Applications**
-* 🗺️ **GIS & Spatial Analysis**
-* 🐄 **Veterinary Epidemiology & Disease Informatics**
-* 📊 **Data Analysis & Visualization**
-* 🖥️ **Linux & Server Administration**
-* ⚙️ **Automation & DevOps**
-* 🧬 **Disease Forecasting & Risk Mapping**
-* 🚀 **HPC & Open OnDemand**
-* 📱 **Android & React Native**
+    role = "Computer Engineer & Developer"
 
-I enjoy building systems that connect **data → analysis → visualization → decision making**.
+    interests = [
+        "Software Development",
+        "Data Science",
+        "GIS & Spatial Statistics",
+        "Veterinary Epidemiology",
+        "Disease Forecasting",
+        "Automation",
+        "Linux & HPC",
+        "DevOps"
+    ]
+
+    currently_building = [
+        "Web Applications",
+        "Data Platforms",
+        "Epidemiological Systems",
+        "GIS Applications",
+        "APIs & Automation",
+        "Scientific Computing"
+    ]
+
+    philosophy = "Build → Automate → Analyze → Improve"
+```
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ `Tech Stack`
 
-### 👨‍💻 Languages
+### 🧠 Programming
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,r,php,js,java,c&theme=dark" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & APIs
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,express&theme=dark" />
 </p>
 
-### 📊 Data Science & Analytics
+### 🗄️ Database
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Time_Series-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
-### 🗺️ GIS & Remote Sensing
+### 📊 Data Science
 
 <p>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
-<img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spatial_Statistics-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Remote_Sensing-2E7D32?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
 </p>
 
-### 🗄️ Databases
-
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-6C3483?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time_Series-512DA8?style=for-the-badge)
+
 </p>
 
-`SQL` `Database Design` `Query Optimization` `Data Migration` `Backup & Recovery`
-
-### 🖥️ Linux • Server • DevOps
+### 🗺️ GIS / Remote Sensing
 
 <p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge\&logo=qgis\&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge\&logo=googleearth\&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge)
+![Spatial Statistics](https://img.shields.io/badge/Spatial_Statistics-8E44AD?style=for-the-badge)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-2E7D32?style=for-the-badge)
+
+</p>
+
+### 🖥️ Linux / DevOps / Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,apache,docker,kubernetes,jenkins,git,github&theme=dark" />
 </p>
 
 `SSH` `SSL/TLS` `Apache` `Firewall` `Reverse Proxy` `CI/CD` `HPC` `Open OnDemand`
 
-### 📱 Mobile Development
+### 📱 Mobile
 
 <p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=android,react&theme=dark" />
 </p>
 
-### 🧪 Testing & Development Tools
+`React Native` `Android` `REST APIs` `Node.js` `Express`
+
+### 🧪 Testing & Tools
 
 <p>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+
 </p>
 
 ---
 
-# 🔬 What I Build
+# 🔬 `What I Work On`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐄 Animal Health Informatics
+
+* Disease surveillance
+* Epidemiological databases
+* Disease forecasting
+* Risk mapping
+* One Health data systems
+* Scientific dashboards
+
+</td>
+
+<td width="50%">
+
+### 🗺️ Spatial Analytics
+
+* GIS
+* Spatial statistics
+* Remote sensing
+* Raster processing
+* Geospatial modelling
+* Spatio-temporal analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Software Engineering
+
+* Web applications
+* REST APIs
+* Database systems
+* Data pipelines
+* Automation
+* Mobile applications
+
+</td>
+
+<td width="50%">
+
+### 🖥️ Infrastructure
+
+* Linux servers
+* Apache
+* SSL/TLS
+* Docker
+* HPC
+* Open OnDemand
+* Server automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 `Current Focus`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=700&color=7B2FF7&center=true&vCenter=true&width=850&lines=Learning+Machine+Learning+for+Epidemiology;Exploring+Geospatial+Machine+Learning;Building+Spatio-Temporal+Models;Working+with+Large+Scientific+Datasets;Exploring+AI+%2B+Epidemiology;Learning+HPC+%26+GPU+Computing" />
+</p>
+
+---
+
+# 🧬 `My Technical Pipeline`
 
 ```text
-┌─────────────────────────────────────────────┐
-│              DATA & SCIENCE                 │
-├─────────────────────────────────────────────┤
-│                                             │
-│  Epidemiology      GIS      Statistics      │
-│       │             │           │           │
-│       └─────────────┼───────────┘           │
-│                     ↓                       │
-│              Data Engineering               │
-│                     ↓                       │
-│          Python • R • MySQL                 │
-│                     ↓                       │
-│         Web & API Applications              │
-│                     ↓                       │
-│       Dashboards • Maps • Forecasts         │
-│                     ↓                       │
-│          Scientific Decision Support        │
-│                                             │
-└─────────────────────────────────────────────┘
+             ┌──────────────────┐
+             │   DATA SOURCES   │
+             └────────┬─────────┘
+                      ↓
+        ┌─────────────────────────┐
+        │ Data Engineering        │
+        │ Python • R • SQL        │
+        └────────────┬────────────┘
+                     ↓
+        ┌─────────────────────────┐
+        │ Statistical Analysis    │
+        │ Epidemiology • ML       │
+        └────────────┬────────────┘
+                     ↓
+        ┌─────────────────────────┐
+        │ GIS & Spatial Analysis  │
+        │ QGIS • GEE • GDAL       │
+        └────────────┬────────────┘
+                     ↓
+        ┌─────────────────────────┐
+        │ Risk & Forecast Models  │
+        └────────────┬────────────┘
+                     ↓
+        ┌─────────────────────────┐
+        │ Web • Maps • Dashboards │
+        └────────────┬────────────┘
+                     ↓
+              🚀 DECISION SUPPORT
 ```
 
 ---
 
-# 🧬 Domain
-
-### Veterinary Epidemiology & One Health
-
-My development work is focused on applying technology to:
-
-**Animal Disease Surveillance**
-→ **Epidemiological Data**
-→ **Spatial Analysis**
-→ **Risk Mapping**
-→ **Disease Forecasting**
-→ **Decision Support**
-
----
-
-# 📌 Featured Areas
-
-| 💻 Development | 📊 Data    | 🗺️ Spatial    | 🖥️ Infrastructure |
-| -------------- | ---------- | -------------- | ------------------ |
-| PHP            | Python     | QGIS           | Linux              |
-| JavaScript     | R          | GEE            | Apache             |
-| REST APIs      | Pandas     | GDAL           | Docker             |
-| React Native   | NumPy      | Spatial Stats  | HPC                |
-| MySQL          | Statistics | Remote Sensing | Open OnDemand      |
-
----
-
-# 🌱 Currently Learning & Exploring
-
-```text
-Machine Learning
-      ↓
-Geospatial Machine Learning
-      ↓
-Spatio-Temporal Modelling
-      ↓
-Deep Learning
-      ↓
-AI + Epidemiology
-      ↓
-Large-Scale Scientific Computing
-      ↓
-HPC / GPU Computing
-```
-
----
-
-# 📈 GitHub Stats
+# 📊 `GitHub Analytics`
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Navnath0006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Navnath0006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navnath0006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Navnath0006&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navnath0006&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+<img src="https://streak-stats.demolab.com?user=Navnath0006&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 `Contribution Activity`
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Navnath0006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+<img src="https://raw.githubusercontent.com/Navnath0006/Navnath0006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🏆 `GitHub Trophies`
 
-[![Navnath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navnath0006\&theme=tokyo-night\&hide_border=true)](https://github.com/Navnath0006)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Navnath0006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
-# 💡 Developer Philosophy
-
-> **Build useful things. Automate repetitive things.
-> Turn data into knowledge. Turn knowledge into decisions.**
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 📈 `Activity`
 
 <p align="center">
 
 <a href="https://github.com/Navnath0006">
-<img src="https://img.shields.io/badge/GitHub-Navnath0006-181717?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navnath0006&bg_color=0d1117&color=00c6ff&line=7b2ff7&point=ffffff&area=true&hide_border=true" width="100%"/>
+</a>
+
+</p>
+
+---
+
+# 💡 `Developer Philosophy`
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=Don't+just+write+code.;Build+systems+that+solve+real+problems.;Automate+what+can+be+automated.;Turn+data+into+knowledge.;Turn+knowledge+into+decisions." />
+
+</p>
+
+---
+
+# 🌐 `Connect`
+
+<p align="center">
+
+<a href="https://github.com/Navnath0006">
+<img src="https://img.shields.io/badge/GitHub-Navnath0006-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -241,9 +303,13 @@ HPC / GPU Computing
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Navnath0006&label=Profile%20Views&color=blue&style=flat" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:0072FF,100:00C6FF&height=120&section=footer&animation=twinkling"/>
+
 </p>
 
 <p align="center">
-<b>🐍 Python • 📊 Data • 🗺️ GIS • 🧬 Epidemiology • 💻 Development • 🖥️ HPC</b>
+
+### ⚡ `Python` • `R` • `GIS` • `Epidemiology` • `MySQL` • `Linux` • `HPC` • `AI`
+
 </p>
